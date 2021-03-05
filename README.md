@@ -1,5 +1,7 @@
 # singleton
 
+only for 0 parameters fn
+
 ```
 import singleton from 'singleton-fn'
 
